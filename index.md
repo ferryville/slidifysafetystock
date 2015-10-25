@@ -106,7 +106,7 @@ print(ss)
 ## Impacts of the lead time on safety stock
 *** =fullwidth
 
-Let assume that the service level is equal to 90% and change the service level from 5 to 10
+Let assume that the service level is equal to 90% and change the lead time from 5 to 10
 We see that the safety stock is increasing from 1.309777 to 1.852304
 
 *** =left
