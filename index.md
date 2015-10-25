@@ -23,7 +23,7 @@ The demo aims to show the impact of the change of the service level and the Lead
 
 The main formula I am using is: Safety Stock = 
 $$latex
-SS(z,ldt,\sigma) = z{\sigma^2\sqrt{ldt}}   
+SS(z,ldt,\sigma) = z{\sigma\sqrt{ldt}}   
 $$
 - z is the service level coefficient expressed as the qnorm of Service level in percentage
 - $$latex \sigma $$ is the serie standard deviation
